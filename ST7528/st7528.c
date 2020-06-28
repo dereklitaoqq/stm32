@@ -2,7 +2,7 @@
 
 
 // Foreground color
-uint8_t lcd_color = 15;
+uint8_t lcd_color = 16;
 
 // Screen dimensions
 uint16_t scr_width  = SCR_W;
